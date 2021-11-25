@@ -1,0 +1,2 @@
+(this["webpackJsonpy-combinator"]=this["webpackJsonpy-combinator"]||[]).push([[0],{9:function(t,n,e){"use strict";e.r(n);e(0);var o=e(2),r=e.n(o),c=function(t){return"Router"},s=e(3);r.a.render(Object(s.jsx)(c,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.f168282d.chunk.js.map

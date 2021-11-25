@@ -1,0 +1,8 @@
+.feed-item-element{
+    transition: all 0.1s linear;
+}
+
+.feed-item-element:hover{
+    transition: all 0.1s linear;
+    transform: scale(1.04);
+}
